@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="117"
-   height="120"
-   viewBox="0 0 30.95625 31.75"
+   width="78"
+   height="76"
+   viewBox="0 0 20.637501 20.108333"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="bmp_russian.svg"
-   inkscape:export-filename="bmp_russian.png"
+   sodipodi:docname="bmp_russian_sel.svg"
+   inkscape:export-filename="bmp_russian_sel.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.0431538"
-     inkscape:cx="-68.514447"
-     inkscape:cy="93.652841"
+     inkscape:zoom="4.3036694"
+     inkscape:cx="-59.948843"
+     inkscape:cy="94.570461"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -42,20 +42,34 @@
      inkscape:label="Шар 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#4084f0;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect447"
+       width="20.637501"
+       height="20.108334"
+       x="0"
+       y="2.220446e-16" />
+    <rect
+       style="fill:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect446"
+       width="17.197916"
+       height="11.90625"
+       x="1.4552087"
+       y="7.2760415" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:11.2889px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-       x="5.942091"
-       y="9.7013969"
+       style="font-weight:bold;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       x="5.2861581"
+       y="5.5121498"
        id="text186"><tspan
          sodipodi:role="line"
          id="tspan184"
-         x="5.942091"
-         y="9.7013969"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:e-Ukraine;-inkscape-font-specification:'e-Ukraine Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583">UA</tspan></text>
+         x="5.2861581"
+         y="5.5121498"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:e-Ukraine;-inkscape-font-specification:'e-Ukraine Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583">UA</tspan></text>
     <g
        id="g3949"
-       transform="translate(-9.5367435e-8,-7.937499)">
+       transform="matrix(0.66666667,0,0,0.66666667,-0.26458345,-6.1736108)">
       <rect
          style="fill:#0057b7;fill-opacity:1;stroke-width:0.329413;stroke-linecap:round;stroke-linejoin:round"
          id="rect410"

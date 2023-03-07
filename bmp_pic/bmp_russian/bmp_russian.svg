@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="117"
-   height="120"
-   viewBox="0 0 30.95625 31.75"
+   width="78"
+   height="76"
+   viewBox="0 0 20.6375 20.108334"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.0431538"
-     inkscape:cx="-65.721292"
-     inkscape:cy="93.652841"
+     inkscape:zoom="4.3036694"
+     inkscape:cx="-55.069286"
+     inkscape:cy="58.787043"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -43,26 +43,26 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect446"
-       width="26.458334"
-       height="18.520834"
-       x="2.2489581"
-       y="11.90625" />
+       style="fill:#4084f0;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect312"
+       width="20.637501"
+       height="20.108334"
+       x="4.4408921e-16"
+       y="0" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:11.2889px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-       x="5.942091"
-       y="9.7013969"
+       style="font-weight:bold;font-size:5.64444px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       x="5.5507417"
+       y="5.5121498"
        id="text186"><tspan
          sodipodi:role="line"
          id="tspan184"
-         x="5.942091"
-         y="9.7013969"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:e-Ukraine;-inkscape-font-specification:'e-Ukraine Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583">UA</tspan></text>
+         x="5.5507417"
+         y="5.5121498"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:e-Ukraine;-inkscape-font-specification:'e-Ukraine Bold';fill:#00000b;fill-opacity:1;stroke-width:0.264583">UA</tspan></text>
     <g
        id="g3949"
-       transform="translate(-9.5367435e-8,-7.937499)">
+       transform="matrix(0.66666667,0,0,0.66666667,-1.1517204e-7,-6.1736108)">
       <rect
          style="fill:#0057b7;fill-opacity:1;stroke-width:0.329413;stroke-linecap:round;stroke-linejoin:round"
          id="rect410"
